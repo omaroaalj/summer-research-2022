@@ -12,3 +12,5 @@ References:
 [3] R. Keizer. “International_Report_Departures.” U.S. Department of Transportation. https://data.transportation.gov/Aviation/International_Report_Departures/innc-gbgc (accessed Jul. 15, 2022).
 
 [4] D. Morgan. “Database Profile: Aviation Support Tables.” Bureau of Transportation Statistics. https://transtats.bts.gov/DatabaseInfo.asp?QO_VQ=IMI&DB_URL=Z1qr_VQ=E&Z1qr_Qr5p=N8vn6v10&f7owrp6_ VQF=D (accessed Jul. 15, 2022).
+
+Diagrams were made with ERDPlus.
