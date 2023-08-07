@@ -1,5 +1,5 @@
 # Summer Research 2022
-Python programs, SQL commands, and Entity-relationship diagrams I developed as part of a paid Summer Research program I was a part of in Westminster College in between June and July of 2022. Repository also includes spreadsheet files that were imported into the SQL server.
+Python scripts, SQL commands, and Entity-relationship diagrams I developed as part of a paid Summer Research program I was a part of in Westminster College in between June and July of 2022. Repository also includes spreadsheet files that were imported into the SQL server.
 
 NOTE: The group I worked in this project was provided funding by the Westminster College Summer Research Program. The group is not paid, affiliated with, and/or endorsed by any other organization and/or entity, including those listed in References.
 
