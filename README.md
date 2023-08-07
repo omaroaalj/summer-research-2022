@@ -3,7 +3,7 @@ Python programs, SQL commands, and Entity-relationship diagrams I developed as p
 
 NOTE: The group I worked in this project was provided funding by the Westminster College Summer Research Program. The group is not paid, affiliated with, and/or endorsed by any other organization and/or entity, including those listed in References.
 
-"int_flights_erd.png" and "int_flights_rs.png" are based on international departure flight data [3] [4]. "time_spent_erd.png" and "time_spent_rs.png" are based on international time spent data [1] [2].
+`int_flights_erd.png` and `int_flights_rs.png` are based on international departure flight data [3] [4]. `time_spent_erd.png` and `time_spent_rs.png` are based on international time spent data [1] [2].
 
 References:
 
